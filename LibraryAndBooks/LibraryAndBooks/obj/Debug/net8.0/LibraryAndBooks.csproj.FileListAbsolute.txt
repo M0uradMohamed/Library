@@ -1,0 +1,14 @@
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\bin\Debug\net8.0\LibraryAndBooks.exe
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\bin\Debug\net8.0\LibraryAndBooks.deps.json
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\bin\Debug\net8.0\LibraryAndBooks.runtimeconfig.json
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\bin\Debug\net8.0\LibraryAndBooks.dll
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\bin\Debug\net8.0\LibraryAndBooks.pdb
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\LibraryAndBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\LibraryAndBooks.AssemblyInfoInputs.cache
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\LibraryAndBooks.AssemblyInfo.cs
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\LibraryAndBooks.csproj.CoreCompileInputs.cache
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\LibraryAndBooks.dll
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\refint\LibraryAndBooks.dll
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\LibraryAndBooks.pdb
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\LibraryAndBooks.genruntimeconfig.cache
+C:\Users\mordhau\source\repos\LibraryAndBooks\LibraryAndBooks\obj\Debug\net8.0\ref\LibraryAndBooks.dll
